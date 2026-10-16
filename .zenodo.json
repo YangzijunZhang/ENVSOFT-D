@@ -1,0 +1,24 @@
+{
+  "title": "A spatially explicit framework for evaluating resource performance across heterogeneous land-use grid cells: data and code",
+  "upload_type": "software",
+  "description": "Processed CSV inputs and reproducible code for pooled observed-direction VRS directional-distance DEA, land-use sensitivity, city benchmarking, standard-deviational ellipses and stratified robustness checks.",
+  "creators": [
+    {"name": "Zhang, Yangzijun"},
+    {"name": "Wu, Wenyan"}
+  ],
+  "license": "MIT",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/YangzijunZhang/ENVSOFT",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "keywords": [
+    "data envelopment analysis",
+    "land use",
+    "resource performance",
+    "Yellow River Basin",
+    "reproducibility"
+  ]
+}

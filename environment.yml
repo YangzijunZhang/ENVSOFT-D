@@ -1,0 +1,11 @@
+name: yrb-resource-performance
+channels:
+  - conda-forge
+dependencies:
+  - python=3.14.3
+  - numpy=2.5.3
+  - pandas=3.0.6
+  - scipy=1.18.1
+  - matplotlib=3.11.2
+  - pyproj=3.8.0
+  - shapely=2.1.2
