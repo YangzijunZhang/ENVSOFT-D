@@ -1,0 +1,4 @@
+scenario,system,from_year,to_year,dx_east_km,dy_north_km,geodesic_displacement_km,azimuth_deg_clockwise_from_north,movement_direction_8point,from_center_city,to_center_city,from_reach,to_reach
+city,energy,2010,2020,-10.1763898471,-7.39062841936,12.6712653779,237.458929376,SW,Yan’an,Yan’an,Middle,Middle
+city,food,2010,2020,19.7634233638,-3.66086312695,20.4367909141,102.521200729,E,Yan’an,Yan’an,Middle,Middle
+city,water,2010,2020,-0.561121796965,2.75252777461,2.76034293612,350.730091129,N,Yan’an,Yan’an,Middle,Middle
