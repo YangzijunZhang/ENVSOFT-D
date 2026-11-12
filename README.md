@@ -1,6 +1,6 @@
 # A spatially explicit framework for evaluating resource performance across heterogeneous land-use grid cells
 
-This repository contains the processed CSV inputs and concise Python code corresponding to the revised manuscript and Supplementary Information. No TIFF file or machine-specific path is required.
+This repository contains the processed CSV inputs and concise Python code corresponding to the revised manuscript and Supplementary Information. 
 
 ## Files
 
