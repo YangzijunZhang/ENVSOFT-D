@@ -1,0 +1,29 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="class_map">1:Cropland; 2:Forest; 3:Shrub; 4:Grassland; 5:Water; 6:Snow_Ice; 7:Barren; 8:Impervious; 9:Wetland</MDI>
+    <MDI key="rule">maximum_30m_pixel_count_inside_YRB</MDI>
+    <MDI key="source">CLCD_30m</MDI>
+    <MDI key="target_resolution_m">10000</MDI>
+    <MDI key="year">2010</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Description>dominant_land_use_class</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>0.5625</HistMin>
+        <HistMax>8.4375</HistMax>
+        <BucketCount>8</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>1943|908|0|5497|21|5|204|41</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">8</MDI>
+      <MDI key="STATISTICS_MEAN">3.2066365007541</MDI>
+      <MDI key="STATISTICS_MINIMUM">1</MDI>
+      <MDI key="STATISTICS_STDDEV">1.4542160139939</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">37.72</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

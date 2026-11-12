@@ -1,0 +1,19 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="class_map">1:Cropland; 2:Forest; 3:Shrub; 4:Grassland; 5:Water; 6:Snow_Ice; 7:Barren; 8:Impervious; 9:Wetland</MDI>
+    <MDI key="source">CLCD_30m</MDI>
+    <MDI key="target_resolution_m">10000</MDI>
+    <MDI key="unit">fraction_0_1</MDI>
+    <MDI key="year">2010</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Description>valid_30m_LULC_area_divided_by_in_basin_cell_area</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">1</MDI>
+      <MDI key="STATISTICS_MEAN">0.99834353637319</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">0.020341290420401</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">37.74</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
