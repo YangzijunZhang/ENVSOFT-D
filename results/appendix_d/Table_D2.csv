@@ -1,0 +1,4 @@
+lulc_rule,section_4_1_grid_rank_correlation,section_4_2_water_cropland_order,section_4_2_food_cropland_order,section_4_3_water_shift,section_4_3_energy_shift,section_4_3_food_shift
+Dominant-class,Reference,C > B > D > A,C > A > D > B,12.470 km NE (52.9°),59.691 km E (84.8°),5.132 km SE (114.2°)
+≥50%,0.837–1.000,C > B > D > A,C > A > D > B,10.771 km NE (53.2°),41.520 km E (79.1°),9.589 km SE (123.1°)
+≥70%,0.943–1.000,C > B > D > A,C > A > D > B,19.733 km NE (47.0°),133.987 km N (357.0°),14.599 km NE (37.7°)

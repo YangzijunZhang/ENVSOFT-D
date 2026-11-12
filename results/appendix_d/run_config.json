@@ -1,0 +1,39 @@
+{
+  "rules": [
+    "dominant",
+    "threshold_50",
+    "threshold_70"
+  ],
+  "years": [
+    2010,
+    2015,
+    2020
+  ],
+  "minimum_dmus_reported_per_year": 9,
+  "subsampling": {
+    "replicates": 100,
+    "sample_fraction": 0.8,
+    "strata": [
+      "year",
+      "lulc_code"
+    ],
+    "seed": 2602569,
+    "scores_compared_for": "drawn DMUs only"
+  },
+  "python": "3.14.3",
+  "packages": {
+    "numpy": "2.5.4",
+    "pandas": "3.1.1",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.2",
+    "pyproj": "3.8.0",
+    "shapely": "2.2.0"
+  },
+  "sha256": {
+    "data/grid_panel_10km.csv": "63cb3bf043e8776e8a7bde44acb6dd9a417932cffc26f852898ff4b93a2d379f",
+    "data/city_panel_10km.csv": "bc8321a3c7c5ff3577f151be8807dab7680858709029680de0ec02ee5a05e3d7",
+    "code/dea_performance.py": "9463a54b4745c5fd1f89861b69f0fce600ffa0e2ee345236ee0484883c184998",
+    "code/common.py": "d59eb0f1a6fdd36bbd7a9e22cc773fe87633e0e27f63a138520b1f32acc4468d",
+    "code/appendix_d.py": "6f2e49f3ea01ccede038b8b2c8806686a2b7c07d9147dbf3a89f3452f0e8c81f"
+  }
+}

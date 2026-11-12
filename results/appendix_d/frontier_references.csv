@@ -1,0 +1,13 @@
+lulc_rule,system,frontier,land_type,n_reference,n_unique,n_hull,status
+threshold_50,water,group,Cropland,5288,5288,44,estimated
+threshold_50,water,group,Forest,2475,2475,39,estimated
+threshold_50,water,group,Grassland,15754,15754,65,estimated
+threshold_50,water,meta,"Cropland,Forest,Grassland",23517,23517,62,estimated
+threshold_50,energy,group,Impervious,147,147,24,estimated
+threshold_50,food,group,Cropland,5281,5281,91,estimated
+threshold_70,water,group,Cropland,3230,3230,37,estimated
+threshold_70,water,group,Forest,1636,1636,38,estimated
+threshold_70,water,group,Grassland,12591,12591,76,estimated
+threshold_70,water,meta,"Cropland,Forest,Grassland",17457,17457,67,estimated
+threshold_70,energy,group,Impervious,38,38,14,estimated
+threshold_70,food,group,Cropland,3227,3227,67,estimated

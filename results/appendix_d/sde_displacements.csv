@@ -1,0 +1,10 @@
+scenario,system,from_year,to_year,dx_east_km,dy_north_km,geodesic_displacement_km,azimuth_deg_clockwise_from_north,movement_direction_8point,from_center_city,to_center_city,from_reach,to_reach,movement_direction_16point
+dominant,energy,2010,2020,57.7551851111,10.0109075078,59.6913274245,84.8141507099,E,Changzhi,Jinzhong,Middle,Middle,E
+dominant,food,2010,2020,4.70617032711,-1.88640126949,5.13158369439,114.199585057,SE,Yan’an,Linfen,Middle,Middle,ESE
+dominant,water,2010,2020,9.58848796657,7.88027694349,12.4697660153,52.865006371,NE,Qingyang,Qingyang,Middle,Middle,NE
+threshold_50,energy,2010,2020,39.2562970112,11.1726883704,41.5201982653,79.1181058545,E,Changzhi,Changzhi,Middle,Middle,E
+threshold_50,food,2010,2020,8.17127225126,-4.88599628141,9.58899619918,123.07224057,SE,Linfen,Linfen,Middle,Middle,ESE
+threshold_50,water,2010,2020,8.33039830365,6.74422241705,10.7710800981,53.2094809983,NE,Qingyang,Qingyang,Middle,Middle,NE
+threshold_70,energy,2010,2020,-18.1157616059,135.241937106,133.986522597,356.959070833,N,Jiaozuo,Changzhi,Middle,Middle,N
+threshold_70,food,2010,2020,8.01829238531,12.2869134623,14.5989643231,37.651012746,NE,Linfen,Linfen,Middle,Middle,NE
+threshold_70,water,2010,2020,13.9576988012,13.9224792418,19.7334897917,46.9922877874,NE,Qingyang,Qingyang,Upper,Middle,NE

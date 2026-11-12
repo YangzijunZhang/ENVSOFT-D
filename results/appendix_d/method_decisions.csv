@@ -1,0 +1,7 @@
+topic,decision,requires_new_estimation
+land_use_assignment,"Dominant-class rule (primary), dominant share >= 50% and dominant share >= 70%; cells failing a threshold are excluded, not reclassified.",True
+grid_size,10 km in every run; the thresholds test within-cell land-use mixing directly.,False
+direction_vector,"Observed values g = (x_o, y_o, b_o) in every run; beta is invariant to positive changes in measurement units, so no scaling constant is needed.",False
+frontier,"One frontier pooled over 2010, 2015 and 2020, VRS, weak disposability of the undesirable output, as in the main analysis.",True
+frontier_stability,100 replicates retaining 80% of the DMUs (rounded down) within every year x land-use stratum; seed 2602569.,True
+city_scale,Not re-estimated: city totals include grid cells of all land-use types and do not depend on the land-use assignment rule.,False

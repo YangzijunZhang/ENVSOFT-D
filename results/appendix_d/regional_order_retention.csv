@@ -1,0 +1,5 @@
+system,lulc_rule,dominant_order,scenario_order,ordering_retained
+water,threshold_50,C > B > D > A,C > B > D > A,True
+water,threshold_70,C > B > D > A,C > B > D > A,True
+food,threshold_50,C > A > D > B,C > A > D > B,True
+food,threshold_70,C > A > D > B,C > A > D > B,True
