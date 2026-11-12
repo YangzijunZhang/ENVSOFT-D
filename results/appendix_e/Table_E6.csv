@@ -1,0 +1,5 @@
+rule,frontier,n_main,n_excluded,n_frontier_main,frontier_dmus_excluded,spearman_retained,sde_main_km,sde_main_az,sde_new_km,sde_new_az,cells_excluded_in_some_years_only,sde_centre_city_2010,sde_centre_city_2020
+non-vegetated share > 20%,group: Cropland,5774,1160,32,3,0.998177389788,12.4697660153,52.865006371,10.8470603727,25.1394146241,333,Qingyang,Qingyang
+non-vegetated share > 20%,group: Forest,2830,0,20,0,1,12.4697660153,52.865006371,10.8470603727,25.1394146241,333,Qingyang,Qingyang
+non-vegetated share > 20%,group: Grassland,16351,1044,35,4,0.999318856898,12.4697660153,52.865006371,10.8470603727,25.1394146241,333,Qingyang,Qingyang
+non-vegetated share > 20%,meta,24955,2204,34,6,0.998850246915,12.4697660153,52.865006371,10.8470603727,25.1394146241,333,Qingyang,Qingyang

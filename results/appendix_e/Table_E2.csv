@@ -1,0 +1,10 @@
+scale,system,frontier,n,spearman_score_vs_ratio,pearson_log_input_vs_log_good
+grid,water,group: Cropland,5774,0.940516954883,0.968747972204
+grid,water,group: Forest,2830,0.983844827568,0.984956270113
+grid,water,group: Grassland,16351,0.951666602452,0.890998614656
+grid,water,meta,24955,0.976577350681,0.899252870974
+city,water,city,228,0.624369836808,0.990547563788
+grid,energy,group: Impervious,183,0.934498310183,0.963880160342
+city,energy,city,228,0.529964970028,0.378510342608
+grid,food,group: Cropland,5766,0.667352880547,0.31696223696
+city,food,city,228,0.690145816574,0.698654336124

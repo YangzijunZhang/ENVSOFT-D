@@ -1,0 +1,8 @@
+statistic,value
+Spearman meta score vs NPP/ET,0.976577350681
+Spearman meta score without erosion vs NPP/ET,0.998617377181
+Share of DMUs with percentile-rank gap > 10 points (%),4.36385493889
+"Rank-regression coefficient on erosion/ET, weak disposability",0.042435401837
+"Rank-regression coefficient on erosion/ET, strong disposability",-0.0454619088227
+"Mean percentile-rank gap of top-10% erosion/ET DMUs, weak (points)",8.45418708804
+"Mean percentile-rank gap of top-10% erosion/ET DMUs, strong (points)",-0.222733452265

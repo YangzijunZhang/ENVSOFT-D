@@ -1,0 +1,10 @@
+scale,system,rule,frontier,n_main,n_excluded,n_frontier_main,frontier_dmus_excluded,spearman_retained,sde_main_km,sde_main_az,sde_new_km,sde_new_az,excluded_cities
+grid,water,grid cells < 10 km2,group: Cropland,5774,106,32,6,0.993973157574,12.4697660153,52.865006371,12.2425832453,52.9556934033,Ankang; Datong; Hanzhong; Hebi; Linyi; Longnan; Nanyang; Pingdingshan; Zhangye
+grid,water,grid cells < 10 km2,group: Forest,2830,98,20,3,0.993298380608,12.4697660153,52.865006371,12.2425832453,52.9556934033,Ankang; Datong; Hanzhong; Hebi; Linyi; Longnan; Nanyang; Pingdingshan; Zhangye
+grid,water,grid cells < 10 km2,group: Grassland,16351,317,35,8,0.996736991378,12.4697660153,52.865006371,12.2425832453,52.9556934033,Ankang; Datong; Hanzhong; Hebi; Linyi; Longnan; Nanyang; Pingdingshan; Zhangye
+grid,water,grid cells < 10 km2,meta,24955,521,34,6,0.998628858699,12.4697660153,52.865006371,12.2425832453,52.9556934033,Ankang; Datong; Hanzhong; Hebi; Linyi; Longnan; Nanyang; Pingdingshan; Zhangye
+grid,energy,grid cells < 10 km2,group: Impervious,183,21,14,5,0.991861347366,59.6913274245,84.8141507099,74.8143878178,87.354942535,Ankang; Datong; Hanzhong; Hebi; Linyi; Longnan; Nanyang; Pingdingshan; Zhangye
+grid,food,grid cells < 10 km2,group: Cropland,5766,102,25,2,0.969364230041,5.13158369439,114.199585057,5.70128193638,106.811228088,Ankang; Datong; Hanzhong; Hebi; Linyi; Longnan; Nanyang; Pingdingshan; Zhangye
+city,water,cities < 100 km2,city,228,27,30,11,0.947481054416,14.5112365429,67.5682831454,13.9426045044,69.6570510126,Ankang; Datong; Hanzhong; Hebi; Linyi; Longnan; Nanyang; Pingdingshan; Zhangye
+city,energy,cities < 100 km2,city,228,27,22,3,0.9996078561,12.6712653779,237.458929376,13.5361245949,239.280824667,Ankang; Datong; Hanzhong; Hebi; Linyi; Longnan; Nanyang; Pingdingshan; Zhangye
+city,food,cities < 100 km2,city,228,27,18,1,0.997603228107,20.4367909141,102.521200729,21.2810725253,104.323412648,Ankang; Datong; Hanzhong; Hebi; Linyi; Longnan; Nanyang; Pingdingshan; Zhangye
