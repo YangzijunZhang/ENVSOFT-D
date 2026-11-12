@@ -38,21 +38,3 @@ python code/sensitivity.py
 python code/robustness.py
 ```
 
-The scripts write generated performance tables and supplementary statistics to `results/`, and the manuscript/SI figures to `figures/`.
-
-## Implemented methods
-
-- Three pooled benchmark years: 2010, 2015 and 2020.
-- Observed direction `g = (x_o, y_o, b_o)`, variable returns to scale, and weak disposability of the undesirable output.
-- Score `TE = 1 / (1 + beta)`.
-- Water group frontiers for Cropland, Forest and Grassland plus their meta-frontier; Energy for Impervious land; Food for Cropland.
-- Variables enter the linear programmes directly in their physical units, with no standardisation or rescaling.
-- The city benchmark uses all land-use classes and is estimated independently from the grid frontiers. For each system, the pooled frontier begins from the intersection of cities with eligible data in all three benchmark years. Cross-year maps and SDEs use only cities with a successful, finite score in every benchmark year, so city membership is identical in 2010, 2015 and 2020.
-- All maps use the processed WKT geometries in `data/cartography_layers.csv`; no TIFF, shapefile or machine-specific path is required.
-- Section 4.1 maps group-frontier grid TE and independently estimated city TE for all three systems and years.
-- Section 4.2 reports 2020 Cropland group-frontier scores for Regions A–D.
-- Section 4.3 uses every evaluated grid DMU and the balanced common-year city sample, weighted by its score, with one-standard-deviation SDE semi-axes and reports the city/reach containing each centre.
-- Sensitivity re-estimates the same model independently under the 50% and 70% rules and produces Table D1 and Figs. D1–D6.
-- Robustness uses 100 replicates, 80% sampling without replacement within year × land-type strata, seed `2602569`, and produces Fig. D7.
-
-Repository URL: <https://github.com/YangzijunZhang/ENVSOFT>. 
