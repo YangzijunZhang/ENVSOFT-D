@@ -1,0 +1,7 @@
+system,frontier,land_type,n_reference,n_unique,n_hull,status
+water,group,Cropland,5774,5774,46,estimated
+water,group,Forest,2830,2830,43,estimated
+water,group,Grassland,16351,16351,61,estimated
+water,meta,"Cropland,Forest,Grassland",24955,24955,61,estimated
+energy,group,Impervious,183,183,27,estimated
+food,group,Cropland,5766,5766,90,estimated

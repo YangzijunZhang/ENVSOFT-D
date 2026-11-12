@@ -1,0 +1,4 @@
+system,frontier,n_reference,n_unique,n_hull,n_common_input_cities,n_common_score_cities,n_failed_city_years
+water,city,228,228,38,76,76,0
+energy,city,228,228,36,76,76,0
+food,city,228,228,47,76,76,0
