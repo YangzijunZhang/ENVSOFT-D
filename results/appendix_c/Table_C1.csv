@@ -1,0 +1,25 @@
+system,land_type,year,n,pooled_frontier_n
+Water,Cropland,2010,1943,5774
+Water,Cropland,2015,1912,5774
+Water,Cropland,2020,1919,5774
+Water,Forest,2010,908,2830
+Water,Forest,2015,941,2830
+Water,Forest,2020,981,2830
+Water,Grassland,2010,5480,16351
+Water,Grassland,2015,5467,16351
+Water,Grassland,2020,5404,16351
+Energy,Impervious,2010,41,183
+Energy,Impervious,2015,60,183
+Energy,Impervious,2020,82,183
+Food,Cropland,2010,1940,5766
+Food,Cropland,2015,1909,5766
+Food,Cropland,2020,1917,5766
+Water,Shrub,2010,0,0
+Water,All (meta-frontier),2010,8331,24955
+City scale,Each system,2010,76,228
+Water,Shrub,2015,0,0
+Water,All (meta-frontier),2015,8320,24955
+City scale,Each system,2015,76,228
+Water,Shrub,2020,0,0
+Water,All (meta-frontier),2020,8304,24955
+City scale,Each system,2020,76,228

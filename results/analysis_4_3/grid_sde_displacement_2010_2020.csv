@@ -1,0 +1,4 @@
+scenario,system,from_year,to_year,dx_east_km,dy_north_km,geodesic_displacement_km,azimuth_deg_clockwise_from_north,movement_direction_8point,from_center_city,to_center_city,from_reach,to_reach
+dominant_grid,energy,2010,2020,57.7551851111,10.0109075078,59.6913274245,84.8141507099,E,Changzhi,Jinzhong,Middle,Middle
+dominant_grid,food,2010,2020,4.70617032711,-1.88640126949,5.13158369439,114.199585057,SE,Yan’an,Linfen,Middle,Middle
+dominant_grid,water,2010,2020,9.58848796657,7.88027694349,12.4697660153,52.865006371,NE,Qingyang,Qingyang,Middle,Middle
