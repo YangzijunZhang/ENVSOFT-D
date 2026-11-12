@@ -55,4 +55,4 @@ The scripts write generated performance tables and supplementary statistics to `
 - Sensitivity re-estimates the same model independently under the 50% and 70% rules and produces Table D1 and Figs. D1–D6.
 - Robustness uses 100 replicates, 80% sampling without replacement within year × land-type strata, seed `2602569`, and produces Fig. D7.
 
-Repository URL: <https://github.com/YangzijunZhang/ENVSOFT>. See [RELEASE.md](RELEASE.md) for the GitHub–Zenodo release steps.
+Repository URL: <https://github.com/YangzijunZhang/ENVSOFT>. 
